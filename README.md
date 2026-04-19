@@ -1,4 +1,4 @@
-We buillt a controller circuit that controls a single-phase full bridge inverter circuit with LC filter. The LC filter is used to get a purely sinusoidal wave. Our main motive here is to set up a controller circuit that controls the rms value of the output voltage of an inverter circuit. We get an output rms voltage that can be controlled by using the controller circuit. The project is done in Matlab Simulink. 
+We buillt a controller circuit that controls a single-phase full bridge inverter circuit with LC filter. The LC filter is used to get a purely sinusoidal wave. Our main motive here is to set up a controller circuit that controls the rms value of the output voltage of an inverter circuit. The project is done in Matlab Simulink. 
 
 # Single-Phase H-Bridge Inverter with PI Voltage Control
 
